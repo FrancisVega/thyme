@@ -1,6 +1,6 @@
 # Thymus
 
-A PostCSS utility first CSS for \*\*modern browsers.""
+A PostCSS utility first CSS for **modern browsers.**
 
 ## Why?
 
