@@ -1,6 +1,6 @@
-# A-tomillo
+# Thymus
 
-A PostCSS utility first CSS for **modern browsers.""
+A PostCSS utility first CSS for \*\*modern browsers.""
 
 ## Why?
 
@@ -14,14 +14,10 @@ To learn deep aspects of css, that's all.
 
 ```html
 <!-- responsive classes -->
-<div class="flex md:flex-column xl:flex-row">
-    ...
-</div>
+<div class="flex md:flex-column xl:flex-row">...</div>
 
 <!-- pseudo classes -->
-<button class="interactive-01 hover:interactive-01-hover">
-    ...
-</button>
+<button class="interactive-01 hover:interactive-01-hover">...</button>
 ```
 
 ## TODO:
