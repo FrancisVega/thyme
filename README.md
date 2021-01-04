@@ -1,7 +1,7 @@
-# Thymus
+# Thyme
 
 <p align="center">
-  <img src="./media/logo.png" alt="thymus illustration" width="320" />
+  <img src="./media/logo.png" alt="thyme illustration" width="320" />
 </p>
 
 <p align="center">
