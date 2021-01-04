@@ -1,0 +1,8 @@
+{
+  "name": "a-tomillo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/FrancisVega/a-tomillo.git",
+  "author": "Francis <hisconer@gmail.com> (https://www.secuoyas.com/)",
+  "license": "MIT"
+}
