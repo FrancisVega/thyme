@@ -6,7 +6,7 @@ A PostCSS utility first CSS for **modern browsers.**
 
 To learn deep aspects of css, that's all.
 
-## Features
+## Features
 
 - Themeable
 - Responsive classes
